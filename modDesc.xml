@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="94">
+    <author>Kamikater</author>
+    <version>0.0.1.0</version>
+
+    <title>
+        <en>Sawmills With Chip Control</en>
+        <!-- <de>sawmill</de> -->
+		<!-- <fr>sawmill</fr> -->
+    </title>
+
+    <description>
+        <en>
+ <![CDATA[Full control over your chips.
+
+]]>
+        </en>
+        <!-- <de> -->
+<!-- <![CDATA[Ergänze dein Silo um eine Produktion, damit du die Ware automatisch verschicken ('Verteilen' oder 'Verkaufen') kannst. -->
+
+<!-- ]]> -->
+        <!-- </de> -->
+        <!-- <fr> -->
+ <!-- <![CDATA[Ajoutez une production à votre silo afin de pouvoir expédier automatiquement les marchandises ('Distribuer' ou 'Vendre'). -->
+
+<!-- ]]> -->
+        <!-- </fr> -->
+    </description>
+
+    <iconFilename>icon_Beta.dds</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="sawmillBig.xml" />
+        <storeItem xmlFilename="sawmillSmall.xml" />		
+    </storeItems>
+    
+</modDesc>
