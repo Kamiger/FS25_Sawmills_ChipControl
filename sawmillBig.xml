@@ -153,7 +153,7 @@
         <palletSpawner>
             <spawnPlaces>
                 <spawnPlace startNode="palletAreaStart01" endNode="palletAreaEnd01" fillTypes="WOODBEAM PLANKS BOARDS PREFABWALL" />
-                <spawnPlace startNode="palletAreaStart02" endNode="palletAreaEnd02"/>
+                <spawnPlace startNode="palletAreaStart02" endNode="palletAreaEnd02" fillTypes="WOODBEAM PLANKS BOARDS PREFABWALL"/>
             </spawnPlaces>
         </palletSpawner>
 
